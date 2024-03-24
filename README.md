@@ -75,13 +75,13 @@ To get started with the project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/4pranjal/machine-learning-projects.git
+   git clone https://github.com/4Pranjal/MLOP-s-Project.git
    ```
 
 2. Navigate to the directory:
 
    ```bash
-   cd machine-learning-projects
+   cd MLOP-s-Project
    ```
 
 3. Install the required libraries:
